@@ -1,12 +1,11 @@
 title: Linh Thai # your name (or website title) here
-logo: "/images/logo.png?raw=true" # your photo (or logo) here
+logo: "images/pro headshot.png" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-
+  
   <br><br>
   <a href="https://www.linkedin.com/in/mlinhtthai/">LinkedIn</a> 
   <br>
-  <a href="/pdf/LinhThai_Resume.pdf" class="btn btn--info">Resume</a> 
-  
+  <a href="/pdf/LinhThai_Resume.pdf" class="btn btn--info">Resume</a>
   <br>
   <a href="https://github.com/linhthai206">GitHub</a>  
  
