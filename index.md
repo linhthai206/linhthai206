@@ -8,23 +8,21 @@ Hi! My name is Linh Thai, a senior at Lehigh University with double majors in Fi
 
 <!-- You can link to other websites, PDFs in this repo, and other pages in this repo -->
 
-_**Internship at [Indium Corporation](https://www.indium.com/): Business Analytics (May - August 2022)**_
+_**Internship at [Indium Corporation](https://www.indium.com/): Business Analytics** (May - August 2022)_
 
-With the Business Analytics team, I created a dashboard report for global account managers as the company enters a new strategic space, Electric Vehicle. The dashboard will become the main tool for identifying and ranking industry customer leads. In another project, I taught myself VBA to enhance plant managers' production planning master file with macros, which reduced their navigation time by 50%.
+With the Business Analytics team, I created a dashboard report for global account managers as the company enters a new strategic space, Electric Vehicle. The dashboard will become the main tool for identifying and ranking industry customer leads. In another project, I taught myself VBA to enhance plant managers' production planning master file with macros, which reduced their navigation time by **50%.**
 
-_**[Natural language processing 10-Ks to identify risks](midterm_report)**_
+_**[Natural Language Processing 10-Ks to Identify Correlations](midterm_report)**_
 
-You can show off your midterm analysis by moving the report components and output into this file. Or...
-
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+This report uses textual analysis and sentiment analysis to explore whether there is a correlation between S&P 500 companies' stock returns and positive/negative sentiment. I also performed the 10-K correlational study on three additional topics: COVID, ESG, and Climate Change. The analysis results may give insights into how companies document and mention select topics in their 10-Ks.
 
 ---
 
-_**[Regression Practice](Regression_practice)**_
+_**[Visualizing Industry Patenting Trends (1980 - 2010)](RETech patents/RETech patents)**_
 
-Or: The process that created this page can be used to show off your whole midterm analysis file, as is.
+By merging firm data and RETech patent data, I was able to explore patent trends during 1980 - 2010 in sectors Materials, Industrials, Consumer Discretionary, Healthcare, Financials, and Information Technology. Here, “RETech” measures whether the patent pertains to a technological area that is rapidly evolving or stable.
 
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="RETech patents/output_10_0.png" width="75%"> 
 
 ---
 
@@ -34,15 +32,15 @@ More updates soon...
 
 ---
 
-_**[Some personal project](/pdf/sample_presentation.pdf)**_
+_**[Visualizing Shifts in Society](https://societalshifts.com/)** (September - December 2020)_
 
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+In this collaborative student-faculty research project, I helped develop a website showcasing eight societal shifts projected to have a future impact on global businesses and society. These shifts are Changing Demographics, Urbanization, Climate Change, Energy Generation & Storage, AI & Tech Innovation, Big Data, Blockchain, and Social Commerce. I collected and summarized the trend data for Climate Change and Social Commerce with graphical reports.
 
 ---
 
 ## Career Objectives
 
-I want to explore careers that allow me to blend both of my backgrounds in finance and data analytics.
+I want to explore careers that allow me to combine both of my backgrounds in finance and data analytics.
 
 ---
 
