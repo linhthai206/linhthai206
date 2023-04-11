@@ -18,7 +18,7 @@ _**[Visualizing Industry Patenting Trends](RETech patents/RETech patents)**_
 
 By merging firm data and RETech patent data, I was able to explore patent trends during 1980 - 2010 in sectors Materials, Industrials, Consumer Discretionary, Healthcare, Financials, and Information Technology. Here, “RETech” measures whether the patent pertains to a technological area that is rapidly evolving or stable.
 
-<img src="RETech patents/output_10_0.png" width="75%"> 
+<img src="RETech patents/output_10_0.png?raw=true"> 
 
 ---
 
