@@ -8,17 +8,13 @@ Hi! My name is Linh Thai, a senior at Lehigh University with double majors in Fi
 
 <!-- You can link to other websites, PDFs in this repo, and other pages in this repo -->
 
-_**Internship at [Indium Corporation](https://www.indium.com/): Business Analytics** (May - August 2022)_
-
-With the Business Analytics team, I created a dashboard report for global account managers as the company enters a new strategic space, Electric Vehicle. The dashboard will become the main tool for identifying and ranking industry customer leads. In another project, I taught myself VBA to enhance plant managers' production planning master file with macros, which reduced their navigation time by **50%.**
-
 _**[Natural Language Processing 10-Ks to Identify Correlations](midterm_report)**_
 
 This report uses textual analysis and sentiment analysis to explore whether there is a correlation between S&P 500 companies' stock returns and positive/negative sentiment. I also performed the 10-K correlational study on three additional topics: COVID, ESG, and Climate Change. The analysis results may give insights into how companies document and mention select topics in their 10-Ks.
 
 ---
 
-_**[Visualizing Industry Patenting Trends (1980 - 2010)](RETech patents/RETech patents)**_
+_**[Visualizing Industry Patenting Trends](RETech patents/RETech patents)**_
 
 By merging firm data and RETech patent data, I was able to explore patent trends during 1980 - 2010 in sectors Materials, Industrials, Consumer Discretionary, Healthcare, Financials, and Information Technology. Here, “RETech” measures whether the patent pertains to a technological area that is rapidly evolving or stable.
 
@@ -29,6 +25,12 @@ By merging firm data and RETech patent data, I was able to explore patent trends
 _**[Eventual team project](https://donbowen.github.io/teamproject/)**_
 
 More updates soon...
+
+---
+
+_**Internship at [Indium Corporation](https://www.indium.com/): Business Analytics** (May - August 2022)_
+
+With the Business Analytics team, I created a dashboard report for global account managers as the company enters a new strategic space, Electric Vehicle. The dashboard will become the main tool for identifying and ranking industry customer leads. In another project, I taught myself VBA to enhance plant managers' production planning master file with macros, which reduced their navigation time by **50%.**
 
 ---
 
