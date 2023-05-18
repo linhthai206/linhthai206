@@ -22,7 +22,7 @@ By merging firm data and RETech patent data, I was able to explore patent trends
 
 ---
 
-_**[Team project - Data Science for Finance](https://williamroth82.github.io/BozandtheBozzers/)** (May 2023)__
+_**[Team project - Data Science for Finance](https://williamroth82.github.io/BozandtheBozzers/)** (May 2023)_
 
 For our final group project in FIN 377 - Data Science for Finance, we analyzed the relationship between rising sea levels and housing prices. Using linear regression analysis and predictions, we compared coastal and inland house prices and examined the effects of sea levels for the period 2017-2021. One of our conclusions is that, as the sea level rose, inland housing prices grew at a greater rate than comparable coastal properties. This project will help inform real estate research and development initiatives amidst climate change and rising sea levels.
 
